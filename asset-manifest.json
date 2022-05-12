@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://hershdhillon.github.io/csb-7nmsbl/static/js/main.ceb12c03.chunk.js",
+    "main.js.map": "https://hershdhillon.github.io/csb-7nmsbl/static/js/main.ceb12c03.chunk.js.map",
+    "runtime-main.js": "https://hershdhillon.github.io/csb-7nmsbl/static/js/runtime-main.9f4563ec.js",
+    "runtime-main.js.map": "https://hershdhillon.github.io/csb-7nmsbl/static/js/runtime-main.9f4563ec.js.map",
+    "static/js/2.39c6b27d.chunk.js": "https://hershdhillon.github.io/csb-7nmsbl/static/js/2.39c6b27d.chunk.js",
+    "static/js/2.39c6b27d.chunk.js.map": "https://hershdhillon.github.io/csb-7nmsbl/static/js/2.39c6b27d.chunk.js.map",
+    "index.html": "https://hershdhillon.github.io/csb-7nmsbl/index.html",
+    "static/js/2.39c6b27d.chunk.js.LICENSE.txt": "https://hershdhillon.github.io/csb-7nmsbl/static/js/2.39c6b27d.chunk.js.LICENSE.txt",
+    "static/media/logo.336f7ba3.svg": "https://hershdhillon.github.io/csb-7nmsbl/static/media/logo.336f7ba3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f4563ec.js",
+    "static/js/2.39c6b27d.chunk.js",
+    "static/js/main.ceb12c03.chunk.js"
+  ]
+}
